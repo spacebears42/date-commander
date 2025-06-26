@@ -1,0 +1,11 @@
+{
+	"id": "date-commander",
+	"name": "Date Commander",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Inserts the current date as a command with customisable template",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
