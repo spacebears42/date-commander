@@ -29,7 +29,7 @@ export default class DateCommander extends Plugin {
 		this.addSettingTab(new DateCommanderSettingTab(this.app, this));
 
 		this.addCommand({
-			id: 'date-commander',
+			id: 'date-cmd',
 			name: 'current date',
 			editorCallback: (editor: Editor, _: MarkdownView) => {
 				const currentDate = new Date();

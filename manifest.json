@@ -1,7 +1,7 @@
 {
 	"id": "date-cmd",
 	"name": "Date Commander",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "Inserts the current date as a command with customisable template",
 	"author": "spacebears42",
